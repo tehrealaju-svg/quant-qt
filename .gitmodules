@@ -1,0 +1,3 @@
+[submodule "external/quant-core"]
+	path = external/quant-core
+	url = https://github.com/tehrealaju-svg/quant-core
